@@ -13,7 +13,7 @@ let person = (function () {
 
 person.name;
 // undefined
-person.getName;
+person.getName();
 // 'Veronika'
 
 person.setName('Not Veronika');
